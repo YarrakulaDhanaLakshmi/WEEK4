@@ -40,26 +40,26 @@ I’ve used the following technologies to build this:
 
 If you want to try this out, first clone the repository:
 
-```bash
+
 git clone https://github.com/yourusername/event-rsvp-system.git
-```
+
 
 ### 2. Install Dependencies
 
 Next, navigate to the project folder and install the dependencies for the backend:
 
-```bash
+
 cd event-rsvp-system
 npm install
-```
+
 
 ### 3. Run the Server
 
 Start the server by running this command:
 
-```bash
+
 node server.js
-```
+
 
 This will start the backend at `http://localhost:3000`.
 
