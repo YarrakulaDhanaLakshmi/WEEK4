@@ -1,6 +1,3 @@
-Here’s the complete **README.md** for your **Event RSVP and Invitation Management System** in one file:
-
-```markdown
 # Event RSVP and Invitation Management System
 
 ## Overview
@@ -153,5 +150,3 @@ This project is open-source under the MIT License. Feel free to modify and distr
 1. **Single-File README**: This README is now presented in a straightforward, easy-to-read format that covers everything related to your project.
 2. **Clear Instructions**: All the steps from setup to usage are simplified and clearly explained.
 3. **Personal, Direct Tone**: The instructions and details are shared as if you are directly talking to someone using the system.
-
-You can use this README in your project repository! Let me know if you need further adjustments.
