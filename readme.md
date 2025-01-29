@@ -139,14 +139,15 @@ This app works in all modern browsers, including:
 - **Event Search**: Implement a search feature to let users browse for events.
 - **Admin Panel**: Enhance the admin panel to manage and track RSVPs for multiple events.
 
-## License
-
-This project is open-source under the MIT License. Feel free to modify and distribute it as you like!
-```
-
----
-
 ### Key Points:
 1. **Single-File README**: This README is now presented in a straightforward, easy-to-read format that covers everything related to your project.
 2. **Clear Instructions**: All the steps from setup to usage are simplified and clearly explained.
 3. **Personal, Direct Tone**: The instructions and details are shared as if you are directly talking to someone using the system.
+
+
+## License
+
+This project is open-source under the MIT License. Feel free to modify and distribute it as you like!
+YARRAKULA DHANA LAKSHMI
+yarrakuladhanalakshmi@gmail.com
+
